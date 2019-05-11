@@ -15,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/src/TravelPlanner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="235">
-              <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="e#2197#2198#0" expanded="true" />
                 <element signature="e#2244#2245#0" expanded="true" />
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="800" />
     <option name="y" value="195" />
     <option name="width" value="1750" />
@@ -83,7 +83,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557591242128" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557591821173" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,7 +172,7 @@
     <entry file="file://$PROJECT_DIR$/src/TravelPlanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
-          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="e#2197#2198#0" expanded="true" />
             <element signature="e#2244#2245#0" expanded="true" />

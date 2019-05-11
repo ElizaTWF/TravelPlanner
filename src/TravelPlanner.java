@@ -40,7 +40,7 @@ public class TravelPlanner {
         System.out.println("Your total budget in " + symbol + " is " + converted + " " + symbol + ", which " +
                 "per day is " + truncate2Decimal(perDayConverted) + " " + symbol + ".");
     }
-    
+
     public static Double truncate2Decimal(Double num) {
         return (int)(num * 100) / 100.0;
     }
